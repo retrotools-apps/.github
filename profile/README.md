@@ -14,14 +14,14 @@
   <tr>
     <td valign="top" width="50%">
       <h3>
-        <a href="https://github.com/retrotools-apps/MacSCP">
+        <a href="https://retrotools-apps.github.io/MacSCP/">
           <picture>
             <source media="(prefers-color-scheme: dark)" srcset="./assets/macscp-heading-dark.svg">
             <img src="./assets/macscp-heading-light.svg" width="160" height="36" alt="MacSCP">
           </picture>
         </a>
       </h3>
-      <a href="https://github.com/retrotools-apps/MacSCP">
+      <a href="https://retrotools-apps.github.io/MacSCP/">
         <img src="./assets/macscp-workspace.png" width="440" alt="MacSCP showing local and remote files side by side with demonstration data">
       </a>
       <p>Native file transfers and SSH tunnel management for macOS.</p>
