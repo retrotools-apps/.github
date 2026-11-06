@@ -25,7 +25,7 @@
         <img src="./assets/macscp-workspace.png" width="440" alt="MacSCP showing local and remote files side by side with demonstration data">
       </a>
       <p>Native file transfers and SSH tunnel management for macOS.</p>
-      <p><a href="https://github.com/retrotools-apps/MacSCP/"><strong>Explore MacSCP →</strong></a></p>
+      <p><a href="https://retrotools-apps.github.io/MacSCP/"><strong>Explore MacSCP →</strong></a></p>
     </td>
   </tr>
 </table>
